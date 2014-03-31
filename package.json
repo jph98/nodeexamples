@@ -1,5 +1,5 @@
 {
-  "name": "http-server",
+  "name": "httpserver",
   "preferGlobal": true,
   "version": "0.3.0",
   "author": "jon <jonathan.holloway@gmail.com>",

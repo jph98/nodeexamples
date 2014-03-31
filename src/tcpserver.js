@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 var net = require('net');
 var port = 8000;
  

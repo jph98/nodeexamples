@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 var restify = require('restify');
 var port = 8000;
 
