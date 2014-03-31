@@ -24,7 +24,8 @@
     "server"
   ],
   "dependencies" : {
-    "underscore"   :  "*"
+    "underscore"   :  "*",
+    "restify"   :  "*"
   },
   "analyze": false,
   "license": "MIT",
